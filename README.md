@@ -8,7 +8,7 @@ Openworld Visual Hacking Festival (OVHF)
 Operation Vishack
 Openworld Visual Hacking Festival
 
-Using open spaces across cities, countries and continents to create a surreal reality for just one night. Group projects documented and collabed into a once-a-year book and vidoc showcasing the alternative, artistic approach to public property and approach to life. Adjust/alter the world, change the mind.
+Using open spaces across cities, countries and continents to create a surreal reality for just one night. Group projects documented and collabed into a once-a-year book and vidoc showcasing the alternative, artistic approach to public property and approach to life. Alter your world, alter your thoughts.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
