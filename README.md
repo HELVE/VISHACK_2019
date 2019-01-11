@@ -5,6 +5,8 @@
 Openworld Visual Hacking Festival (OVHF)
 Operation Vishack - Openworld Visual Hacking Festival
 
+Using public and open spaces across cities, countries and continents to create a surreal reality for just one night.
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
