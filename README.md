@@ -12,6 +12,8 @@ Using open spaces across cities, countries and continents to create a surreal re
 
 Make a logo in Dotgrid.
 
+Co-org: Sara Mora
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
