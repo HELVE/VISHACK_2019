@@ -14,6 +14,30 @@ Make a logo in Dotgrid.
 
 Co-org: Sara Mora
 
+## VisHack Trailer 2019
+
+Storyboard: 
+- Take 1, map zoom tracking active (zoom in and tracking through the neighbourhood).
+- Take 2, drone shot for the specific location
+- Take 3, initiating sequence frame
+- Take 4, glitch transitions, street faces tracking b-roll
+- Take 5, hooded figure from the back going through an alley,
+- Take 6, gliding side shot of setting up projections in the alley (left).
+- Take 7, gliding side shot of a projection setup in the alley (right).
+- Take 8, full view of the alley (center), 4 projections in the background, camera goes up as I walk through the alley ahead.
+
+## VisHack Main Event
+
+Once a year.
+
+## VisHack Incursions by Helve AVR
+
+Microinvasive operations set in major cities. Setting up video art projections and installations Targetting Germany, France, Iceland, England, Scotland. Think about setting up a location list rather than general cities or countries. LOC.
+
+2019 - *Timeshift* (shifting live recording by 5 minutes - can be done using broadcast delay). Various spots and positioning. For instance: wall projection aligned along the street displaying delayed "a mirror".
+2020 - *x*
+2021 - *x*
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
