@@ -40,9 +40,11 @@ Microinvasive operations set in major cities. Setting up rogue video art project
 
 # VisHack Incursion - POLAND
 
+## VisHack Incursion: Poznan
+
 ## VisHack Incursion: Warsaw
 
-## VisHack Incursion: Poznan
+## VisHack Incursion: Lodz
 
 # VisHack Incursion - GERMANY
 
