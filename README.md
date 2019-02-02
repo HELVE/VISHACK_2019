@@ -38,6 +38,40 @@ Microinvasive operations set in major cities. Setting up rogue video art project
 2020 - *x*
 2021 - *x*
 
+# VisHack Incursion - POLAND
+
+## VisHack Incursion: Warsaw
+
+## VisHack Incursion: Poznan
+
+# VisHack Incursion - GERMANY
+
+## VisHack Incursion: Berlin
+
+# VisHack Incursion - FRANCE
+
+## VisHack Incursion: Paris
+
+# VisHack Incursion - GREAT BRITAIN
+
+## VisHack Incursion: London
+
+# VisHack Incursion: UNITED STATES
+
+## VisHack Incursion: New York
+
+## VisHack Incursion: Houston
+
+## VisHack Incursion: Reyjkiavik
+
+# VisHack Incursion - SCOTLAND
+
+## VisHack Incursion: Glasgow
+
+## VisHack Incursion: Aberdeen
+
+## VisHack Incursion: Edinburgh
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
