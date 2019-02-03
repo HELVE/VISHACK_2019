@@ -40,39 +40,75 @@ Microinvasive operations set in major cities. Setting up rogue video art project
 
 # VisHack Incursion - POLAND
 
+Description.
+
 ## VisHack Incursion: Poznan
+
+Description.
 
 ## VisHack Incursion: Warsaw
 
+Description.
+
 ## VisHack Incursion: Lodz
+
+Description.
 
 # VisHack Incursion - GERMANY
 
+Description.
+
 ## VisHack Incursion: Berlin
+
+Description.
 
 # VisHack Incursion - FRANCE
 
+Description.
+
 ## VisHack Incursion: Paris
+
+Description.
 
 # VisHack Incursion - GREAT BRITAIN
 
+Description.
+
 ## VisHack Incursion: London
+
+Description.
 
 # VisHack Incursion: UNITED STATES
 
+Description.
+
 ## VisHack Incursion: New York
+
+Description.
 
 ## VisHack Incursion: Houston
 
+Description.
+
 ## VisHack Incursion: Reyjkiavik
+
+Description.
 
 # VisHack Incursion - SCOTLAND
 
+Description.
+
 ## VisHack Incursion: Glasgow
+
+Description.
 
 ## VisHack Incursion: Aberdeen
 
+Description.
+
 ## VisHack Incursion: Edinburgh
+
+Description.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
