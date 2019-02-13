@@ -133,7 +133,6 @@ Description.
 6. [Contributing.](#contribute)
 7. [License.](#license)
 8. [Credits.](#credits)
-9. [Commit Glyphs.](#glyphs)
 
 <a name="features"></a>
 ### Features
@@ -173,15 +172,3 @@ Insert project licensing options if there are any.
 <a name="credits"></a>
 ### Credits
 Insert project creator entities, contributors and their respective presence links.
-
-<a name="glyphs"></a>
-### Commit Glyphs
-
-+ ☰ Code structure and formatting
-+ ▲ Performance improvements
-+ ⨯ File deletion
-+ ∗ Bugfix
-+ ⬡ New Feature
-+ ⎔ Documentation
-+ ❑ UI design
-+ ⚑ Release
