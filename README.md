@@ -36,6 +36,8 @@ Once a year.
 
 Microinvasive operations set in major cities . Setting up rogue video art projections and installations. Targetting Germany, France, Iceland, England, Scotland, US, Canada. Think about setting up a location list rather than general cities or countries. LOC. Spontaneous Helve Incursion is an appearance of an large-scale audiovisual vishack installation/show.
 
+Massive sounds rolling through the hills and landscapes. Circle of black trucks (tactical deployment) riding in the sunny dust, sitting in a passenger seat, camera from the outside.
+
 2020 - *Timeshift* (shifting live recording by 5 minutes - can be done using broadcast delay). Various spots and positioning. For instance: wall projection aligned along the street displaying delayed "a mirror".
 2021 - *x*
 2022 - *x*
